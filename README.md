@@ -1,6 +1,6 @@
 # PHP Login Page
 
-![Image][https://github.com/arslanblcn/PhpLogin/blob/master/images/icons/Screenshot%20from%202020-11-05%2020-40-01.png?raw=True]
+![Image](https://github.com/arslanblcn/PhpLogin/blob/master/images/icons/Screenshot%20from%202020-11-05%2020-40-01.png?raw=True)
 
 ## Dynamic Login Form
 
